@@ -1,0 +1,24 @@
+{
+  "name": "5153",
+  "description": "project",
+  "version": "1.2.7",
+  "homepage": "www.5153.com",
+  "author": "plcc",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-connect": "*",
+    "connect-livereload": "*",
+    "grunt-contrib-watch": "*",
+    "load-grunt-tasks": "*",
+    "network-address": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-sprite": "*",
+    "jpegtran-bin": "0.2.0",
+    "grunt-contrib-imagemin": "~0.4.1",
+    "grunt-contrib-sass": "*",
+    "grunt-autoprefixer": "*"
+  }
+}
